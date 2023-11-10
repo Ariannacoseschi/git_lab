@@ -1,8 +1,8 @@
 public class Greet {
 
     public static void main(String[] args ){
-
-        System.out.println("Starting to Code in Style");
+        String message = "pro-coders only";
+        System.out.println(message);
         System.out.println("We are finally understanding git");
         
     }
